@@ -5,7 +5,7 @@ permalink: /action/
 ---
 ## Sign Up
 
-[Sign on to this joint statement]() expressing the Ethereum community's commitment to mitigate the historical emissions of Proof-of-Work.
+[Sign on to this joint statement](https://docs.google.com/forms/d/e/1FAIpQLSfL3t7lzdQLr3z-WDV7S-FaDmHBTyKbP2B5Pfdxzra3Hw0bGw/viewform) expressing the Ethereum community's commitment to mitigate the historical emissions of Proof-of-Work.
 
 Join the [ETH 4 Climate Discord](https://discord.gg/ZWY2Mxb5aM) to join the conversation and help develop Ethereum's climate-positive strategy.
 
