@@ -5,13 +5,13 @@ permalink: /action/
 ---
 ## Sign Up
 
-[Sign on to this joint statement](https://docs.google.com/forms/d/e/1FAIpQLSfL3t7lzdQLr3z-WDV7S-FaDmHBTyKbP2B5Pfdxzra3Hw0bGw/viewform) expressing the Ethereum community's commitment to mitigate the historical emissions of Proof-of-Work.
+[Sign on to this joint statement](https://mirror.xyz/eth4climate.eth) expressing the Ethereum community's commitment to mitigate the historical emissions of Proof-of-Work.
 
 Join the [ETH 4 Climate Discord](https://discord.gg/ZWY2Mxb5aM) to join the conversation and help develop Ethereum's climate-positive strategy.
 
 ## Spread the Word
 
-[Tweet](https://twitter.com/intent/tweet?hashtags=merge4climate,eth4climate&text=The%20Merge%20has%20reduced%20Ethereum%27s%20emissions%20by%2099.95%25%20but%20leaves%20a%20legacy%20of%20tens%20of%20millions%20of%20tonnes%20of%20CO2%20-%20let%27s%20join%20together%20to%20mitigate%20these%20historical%20emissions%21%20https%3A%2F%2F0xaurelius.github.io%2Fmerge4climate) about the importance of compensating for Ethereum's historical Proof-of-Work emisisons and encourage organizations you are a part of and others in your work to sign the statement and commit to mitigating their historical emissions.
+[Tweet](https://twitter.com/intent/tweet?hashtags=merge4climate,eth4climate&text=The%20Merge%20has%20reduced%20Ethereum%27s%20emissions%20by%2099.95%25%20but%20leaves%20a%20legacy%20of%20tens%20of%20millions%20of%20tonnes%20of%20CO2%20-%20let%27s%20join%20together%20to%20mitigate%20these%20historical%20emissions%21%20https%3A%2F%2Feth-4-climate.github.io%2Fmerge4climate) about the importance of compensating for Ethereum's historical Proof-of-Work emisisons and encourage organizations you are a part of and others in your work to sign the statement and commit to mitigating their historical emissions.
 
 ## Retire Carbon
 
